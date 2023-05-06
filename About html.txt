@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT</title>
+    <link rel="stylesheet" href="./About.css">
+</head>
+<body>
+    <div id="main"></div>
+    <div id="page">
+        <div id="nav">
+            <div id="center-nav">
+                <a href="./index.html">HOME</a>
+                <a href="./document/About.html">HTML</a>
+                <a href="./document/About css.txt">CSS</a>
+            </div>
+            <input type="search" placeholder="Search">
+        </div>
+        <img src="./photos/babu.png" alt="Not found">
+        <div id="text">
+            <h3>Gaama</h3>
+            <h5>HELLO!</h5>
+            <h1>Hello there !<br> you are <br>My About section</h1>
+        </div>
+    </div>
+    <div id="page1">
+        <div id="nav">
+            <div id="center-nav"></div>
+        </div>
+    </div>
+</body>
+</html>

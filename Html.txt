@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This is official page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main"></div>
+    <div id="page">
+        <div id="nav">
+            <div id="center-nav">
+                <a href="./index.html">HOME</a>
+                <a href="./About.html">ABOUT</a>
+                <a href="./document/portfoliyo.text">PORTFOLIO</a>
+                <a href="./photos/4.jpg">CONTACT</a>
+            </div>
+            <input type="text" placeholder="search">
+        </div>
+        <img src="./photos/1.jpg" alt="Not found">
+        <div id="text">
+            <h5>Hello!</h5>
+            <h1>We have <br>Design <br>Experience</h1>
+            <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic accusamus doloribus ipsam saepe molestiae placeat voluptatem numquam aperiam voluptatibus omnis.</h4>
+            <div id="buttons">
+                <button id="b1">LETS'S TALK</button>
+                <button id="b2">SEE MY BABY</button>
+                <div id="video">
+                    <video>src="./video/1.mp4" type="video/mp4"</video>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="page1">
+        <div id="right"></div>
+        <div id="left">
+            <div class="box">
+                <h4>01/</h4>
+                <h1>WEB UI UX</h1>
+            </div>
+            <div class="box"></div>
+            <div class="box"></div>
+        </div>
+    </div>
+</body>
+</html>
