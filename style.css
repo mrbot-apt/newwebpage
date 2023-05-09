@@ -13,12 +13,12 @@ html,body{
     overflow: hidden;
 }
 #page{
-    height: 100vh;
-    width: 100vh;
+    height: 100%;
+    width: 100%;
     background-color: floralwhite;
 }
 #page>img{
-    position: absolute;
+    position: relative;
     right: -2%;
     top: -23%;
     scale: 0.9;
