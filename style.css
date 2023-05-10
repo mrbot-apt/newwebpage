@@ -19,10 +19,9 @@ html,body{
 }
 #page>img{
     position: relative;
-    right: -2%;
-    top: -23%;
+    right: 1%;
+    top: 5%;
     scale: 0.9;
-    transform: translateY(-25%);
     width: 50%;
 }
 #page>#nav{
